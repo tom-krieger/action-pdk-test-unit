@@ -1,4 +1,4 @@
-ARG PDKIMAGE=puppet/pdk:latest
+# ARG PDKIMAGE=puppet/pdk:latest
 
 FROM $PDKIMAGE
 
