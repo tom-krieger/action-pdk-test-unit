@@ -1,4 +1,4 @@
-ARG PDKIMAGE=puppet/pdk:2.7.1.0
+ARG PDKIMAGE=https://docker.tom-krieger.de/pdk:2.7.1.0
 
 FROM $PDKIMAGE
 
