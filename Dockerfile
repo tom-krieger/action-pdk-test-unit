@@ -1,4 +1,4 @@
-ARG PDKIMAGE=tomkrieger/pdk:2.7.1.0
+ARG PDKIMAGE=tomkrieger/pdk:2.7.1.1
 
 FROM $PDKIMAGE
 
